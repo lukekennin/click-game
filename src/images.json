@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "bird",
+    "clicked": false,
+    "image": "https://i.imgur.com/eRZpePW.jpg"
+  },
+  {
+    "id": 2,
+    "name": "elephant",
+    "clicked": false,
+    "image": "https://i.imgur.com/iwh7OG0.jpg"
+  },
+  {
+    "id": 3,
+    "name": "telephone",
+    "clicked": false,
+    "image": "https://i.imgur.com/eUDSPk2.jpg"
+  },
+  {
+    "id": 4,
+    "name": "car",
+    "clicked": false,
+    "image": "https://i.imgur.com/l4SQNkr.jpg"
+  },
+  {
+    "id": 5,
+    "name": "snake",
+    "clicked": false,
+    "image": "https://i.imgur.com/eYAJ7Ya.jpg"
+  },
+  {
+    "id": 6,
+    "name": "alien",
+    "clicked": false,
+    "image": "https://i.imgur.com/pyATB3u.jpg"
+  },
+  {
+    "id": 7,
+    "name": "bitcoin",
+    "clicked": false,
+    "image": "https://i.imgur.com/viVcTZ5.png"
+  },
+  {
+    "id": 8,
+    "name": "feett",
+    "clicked": false,
+    "image": "https://i.imgur.com/qhdkfyE.jpg"
+  }
+]
